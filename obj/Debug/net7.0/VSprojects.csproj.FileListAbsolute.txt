@@ -1,0 +1,14 @@
+C:\Users\Тимур\OneDrive\Documents\VSprojects\bin\Debug\net7.0\VSprojects.exe
+C:\Users\Тимур\OneDrive\Documents\VSprojects\bin\Debug\net7.0\VSprojects.deps.json
+C:\Users\Тимур\OneDrive\Documents\VSprojects\bin\Debug\net7.0\VSprojects.runtimeconfig.json
+C:\Users\Тимур\OneDrive\Documents\VSprojects\bin\Debug\net7.0\VSprojects.dll
+C:\Users\Тимур\OneDrive\Documents\VSprojects\bin\Debug\net7.0\VSprojects.pdb
+C:\Users\Тимур\OneDrive\Documents\VSprojects\obj\Debug\net7.0\VSprojects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тимур\OneDrive\Documents\VSprojects\obj\Debug\net7.0\VSprojects.AssemblyInfoInputs.cache
+C:\Users\Тимур\OneDrive\Documents\VSprojects\obj\Debug\net7.0\VSprojects.AssemblyInfo.cs
+C:\Users\Тимур\OneDrive\Documents\VSprojects\obj\Debug\net7.0\VSprojects.csproj.CoreCompileInputs.cache
+C:\Users\Тимур\OneDrive\Documents\VSprojects\obj\Debug\net7.0\VSprojects.dll
+C:\Users\Тимур\OneDrive\Documents\VSprojects\obj\Debug\net7.0\refint\VSprojects.dll
+C:\Users\Тимур\OneDrive\Documents\VSprojects\obj\Debug\net7.0\VSprojects.pdb
+C:\Users\Тимур\OneDrive\Documents\VSprojects\obj\Debug\net7.0\VSprojects.genruntimeconfig.cache
+C:\Users\Тимур\OneDrive\Documents\VSprojects\obj\Debug\net7.0\ref\VSprojects.dll
